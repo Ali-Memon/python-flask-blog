@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/allytech",
+    "prod_uri": "mysql://root:@localhost/allytech",
+    "fb_url": "https://facebook.com/allytech",
+    "twitter_url": "https://twitter.com/allytech",
+    "gh_url": "https://github.com/allytech",
+    "blog_name": "Ally learning ",
+    "blog_tagline": "A blog liked by programmers ",
+    "gmail_username": "aliime031@gmail.com",
+    "gmail_password": "entrytest123",
+    "about": "My name is Muhammad Ali and i am a Student of Computer Systems Engineering department at NED UET Karachi, Pakistan. ",
+    "no_of_posts": 2,
+    "admin_user":"ali" ,
+    "admin_password":"alimemon01",
+    "upload_location":"C:\\Users\\Muhammad Ali\\PycharmProjects\\flask_tut\\static"
+  }
+}
